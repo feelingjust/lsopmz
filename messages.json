@@ -1,0 +1,9 @@
+        {
+            "+62 812-3456-7890": [
+                { "from": "082111222333", "content": "Kode OTP: 123456", "time": "14:05" },
+                { "from": "Telkomsel",    "content": "Selamat datang!",   "time": "13:00" }
+            ],
+            "+1 202-555-0123": [
+                { "from": "Google",  "content": "Your code is 998877", "time": "12:30" }
+            ]
+        }
