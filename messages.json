@@ -1,9 +1,8 @@
         {
-            "+62 812-3456-7890": [
-                { "from": "082111222333", "content": "Kode OTP: 123456", "time": "14:05" },
-                { "from": "Telkomsel",    "content": "Selamat datang!",   "time": "13:00" }
+            "+62 813-5636-2510": [
+                { "from": "WhatsApp", "content": "Kode OTP Anda: 273-886", "time": "1/5/26 20:05" }
             ],
-            "+1 202-555-0123": [
-                { "from": "Google",  "content": "Your code is 998877", "time": "12:30" }
+            "+62 899-8209-83": [
+                { "from": "WhatsApp",  "content": "Kode OTP Anda : 998877", "time": "1/5/26 12:30" }
             ]
         }
